@@ -11,5 +11,9 @@
 
 <h1>Acesta este un HomePage!!!!</h1>
 
+<h2>Un header mai mic</h2>
+
+<h3>Un header si mai mic</h3>
+
 </body>
 </html>
